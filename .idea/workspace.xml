@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="401a0aac-69db-48fd-ba45-e7e9ea17dc13" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1emQiseo9XDz86EHLXj1zFoFeiC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="experimental" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.endava.bookARoom" />
+      <recent name="com.endava.bookARoom.pageObjects" />
+      <recent name="com.endava.bookARoom.models" />
+      <recent name="com.endava.bookARoom.managers" />
+      <recent name="com.endava.bookARoom.dataGeneration" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BookARoomTest.shouldBookARoom">
+    <configuration name="BookARoomTest.shouldBookARoom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookARoom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.endava.bookARoom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.endava.bookARoom" />
+      <option name="MAIN_CLASS_NAME" value="com.endava.bookARoom.BookARoomTest" />
+      <option name="METHOD_NAME" value="shouldBookARoom" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookARoomTest.shouldRegisterUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookARoom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.endava.bookARoom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.endava.bookARoom" />
+      <option name="MAIN_CLASS_NAME" value="com.endava.bookARoom.BookARoomTest" />
+      <option name="METHOD_NAME" value="shouldRegisterUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookARoomTest.shouldBookARoom" />
+        <item itemvalue="JUnit.BookARoomTest.shouldRegisterUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="401a0aac-69db-48fd-ba45-e7e9ea17dc13" name="Default Changelist" comment="" />
+      <created>1594924418925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594924418925</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="526" y="435" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1594926957440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="526" y="435" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1594926957440" />
+    <state width="1879" height="252" key="GridCell.Tab.0.bottom" timestamp="1594943156978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="252" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1594943156978" />
+    <state width="1879" height="252" key="GridCell.Tab.0.center" timestamp="1594943156978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="252" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1594943156978" />
+    <state width="1879" height="252" key="GridCell.Tab.0.left" timestamp="1594943156978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="252" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1594943156978" />
+    <state width="1879" height="252" key="GridCell.Tab.0.right" timestamp="1594943156978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="252" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1594943156978" />
+  </component>
+</project>
