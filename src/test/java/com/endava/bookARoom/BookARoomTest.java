@@ -57,7 +57,6 @@ public class BookARoomTest extends TestBaseClass{
         //Then
         assertThat(result).isEqualTo("Booking Successful!");
 
-
     }
 
 }
